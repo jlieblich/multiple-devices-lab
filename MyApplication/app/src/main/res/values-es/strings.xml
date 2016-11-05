@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_text">Haz click en mi</string>
+    <string name="regular_text">¿Quieres saber qué va a pasar en tres meses?</string>
+    <string name="result_text">Va a ser un desarrollador de Android increíble! Sólo seguir trabajando duro!
+</string>
+</resources>
